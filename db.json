@@ -1,0 +1,1890 @@
+{
+  "questions": [
+    {
+      "id": "Q1A2B",
+      "text": "In terms of size, how does Canada rank?",
+      "choices": [
+        "Second largest country on earth",
+        "First largest country on earth",
+        "Third largest country on earth",
+        "Fourth largest country on earth"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 3,
+      "reference": "Canada is the second largest country on earth",
+      "explanation": "Canada is the second largest country by total area."
+    },
+    {
+      "id": "Q2B3C",
+      "text": "How big is Canada?",
+      "choices": [
+        "5 million square kilometres",
+        "1 million square kilometres",
+        "20 million square kilometres",
+        "10 million square kilometres"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "10 million square kilometres",
+      "explanation": "Canada covers approximately 10 million square kilometres."
+    },
+    {
+      "id": "Q3C4D",
+      "text": "Which oceans line Canada's frontiers?",
+      "choices": [
+        "Pacific Ocean, Atlantic Ocean and Southern Ocean",
+        "Atlantic Ocean and Pacific Ocean",
+        "Pacific Ocean, Atlantic Ocean and Arctic Ocean",
+        "Pacific Ocean and Arctic Ocean"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Three oceans line Canada’s frontiers: the Pacific Ocean in the west, the Atlantic Ocean in the east, and the Arctic Ocean to the north.",
+      "explanation": "Canada is bordered by the Pacific, Atlantic, and Arctic Oceans."
+    },
+    {
+      "id": "Q4D5E",
+      "text": "Which country lies on Canada's southern border?",
+      "choices": [
+        "Mexico",
+        "U.S.A.",
+        "Central America",
+        "Washington"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Along the southern edge of Canada lies the Canada-United States boundary",
+      "explanation": "The United States lies on Canada's southern border."
+    },
+    {
+      "id": "Q5E6F",
+      "text": "What are the regions of Canada?",
+      "choices": [
+        "Atlantic Provinces, Central Canada, Prairie Provinces, West Coast and Northern Territories",
+        "South Provinces, Northern Canada, West Provinces, East Provinces, and Central Territories",
+        "Ontario, Quebec, Prairie Provinces and Central Canada",
+        "Atlantic Provinces, Central Canada, Prairie Provinces, and West Coast"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "•\tThe Atlantic Provinces •\tCentral Canada •\tThe Prairie Provinces •\tThe West Coast •\tThe Northern Territories ",
+      "explanation": "Canada is divided into these regions for administrative purposes."
+    },
+    {
+      "id": "Q6F7G",
+      "text": "What is Canada's national capital?",
+      "choices": [
+        "Ottawa",
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Ottawa, located on the Ottawa River, was chosen as the capital",
+      "explanation": "Ottawa is the capital city of Canada."
+    },
+    {
+      "id": "Q7G8H",
+      "text": "When was Ottawa chosen as the capital of Canada?",
+      "choices": [
+        "1757",
+        "1957",
+        "1857",
+        "1657"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Ottawa, located on the Ottawa River, was chosen as the capital in 1857",
+      "explanation": "Ottawa was chosen as the capital in 1857."
+    },
+    {
+      "id": "Q8H9I",
+      "text": "Who chose Ottawa as the capital of Canada?",
+      "choices": [
+        "Queen Elizabeth II",
+        "Queen Elizabeth I",
+        "Queen Anne",
+        "Queen Victoria"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Ottawa, located on the Ottawa River, was chosen as the capital in 1857 by Queen Victoria, the great-great-grandmother of Queen Elizabeth II.",
+      "explanation": "Queen Victoria chose Ottawa as the capital."
+    },
+    {
+      "id": "Q9I0J",
+      "text": "In terms of size, how does Ottawa's metropolitan area rank in Canada?",
+      "choices": [
+        "Fourth largest metropolitan area",
+        "Largest metropolitan area",
+        "Second largest metropolitan area",
+        "Third largest metropolitan area"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Today it is Canada’s fourth largest metropolitan area.",
+      "explanation": "Ottawa's metropolitan area is the fourth largest in Canada."
+    },
+    {
+      "id": "Q0J1K",
+      "text": "How many provinces and territories are there in Canada?",
+      "choices": [
+        "Ten provinces and four territories",
+        "Nine provinces and three territories",
+        "Ten provinces and three territories",
+        "Eight provinces and five territories"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Canada has ten provinces and three territories.",
+      "explanation": "Canada has ten provinces and three territories."
+    },
+    {
+      "id": "Q1K2L",
+      "text": "In Canada, each province and territory has its own capital city.",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Each province and territory has its own capital city.",
+      "explanation": "Each province and territory in Canada has its own capital city."
+    },
+    {
+      "id": "Q2L3M",
+      "text": "What is the population of Canada?",
+      "choices": [
+        "About 42 million people",
+        "About 34 million people",
+        "About 18 million people",
+        "About 68 million people"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "Canada has a population of about 34 million people.",
+      "explanation": "Canada has a population of about 34 million people."
+    },
+    {
+      "id": "Q3M4N",
+      "text": "Where do the majority of Canadians live?",
+      "choices": [
+        "In rural areas",
+        "In small towns",
+        "In cities",
+        "Along the East Coast"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": " While the majority live in cities,",
+      "explanation": "The majority of Canadians live in cities."
+    },
+    {
+      "id": "Q4N5O",
+      "text": "Which of the following are Atlantic Provinces?",
+      "choices": [
+        "Ontario, Nova Scotia, New Brunswick and Labrador",
+        "Newfoundland, Nova Scotia, New Brunswick and Quebec",
+        "Newfoundland and Labrador, Prince Edward Island, New Brunswick and Quebec",
+        "Newfoundland and Labrador, Nova Scotia, New Brunswick and Prince Edward Island"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Newfoundland and Labrador ............................................... Prince Edward Island ........................................................... Nova Scotia ......................................................................... New Brunswick .................................................................... St. John’s Charlottetown Halifax Fredericton",
+      "explanation": "The Atlantic Provinces are Newfoundland and Labrador, Nova Scotia, New Brunswick, and Prince Edward Island."
+    },
+    {
+      "id": "Q5O6P",
+      "text": "Which of the following defines Central Canada?",
+      "choices": [
+        "Quebec and Ontario",
+        "Quebec and Manitoba",
+        "Ontario and Saskatchewan",
+        "Manitoba and Saskatchewan"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Quebec  ............................................................................... Ontario ................................................................................ Québec City Toronto",
+      "explanation": "Central Canada is defined by the provinces of Quebec and Ontario."
+    },
+    {
+      "id": "Q6P7Q",
+      "text": "Which of the following are Prairie Provinces?",
+      "choices": [
+        "Manitoba, Saskatchewan and Alberta",
+        "Saskatchewan, Alberta and Nova Scotia",
+        "Ontario, Manitoba and Alberta",
+        "Manitoba, Ontario and Saskatchewan"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Manitoba ............................................................................. Saskatchewan ..................................................................... Alberta ................................................................................ Winnipeg Regina Edmonton",
+      "explanation": "The Prairie Provinces are Manitoba, Saskatchewan, and Alberta."
+    },
+    {
+      "id": "Q7Q8R",
+      "text": "Which of the following is a West Coast Province?",
+      "choices": [
+        "Nunavut",
+        "Nova Scotia",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "British Columbia",
+      "explanation": "British Columbia is a West Coast Province."
+    },
+    {
+      "id": "Q8R9S",
+      "text": "Which of the following defines Northern Canada?",
+      "choices": [
+        "Nunavut, Northwest Territories and Yukon",
+        "Nunavut and Northwest Territories",
+        "Northwest Territories and Yukon",
+        "Nunavut, Northwest Territories and Newfoundland"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Nunavut............................................................................... Northwest Territories ........................................................... Yukon Territory .................................................................... Iqaluit Yellowknife Whitehorse",
+      "explanation": "Northern Canada is defined by Nunavut, Northwest Territories, and Yukon."
+    },
+    {
+      "id": "Q9S0T",
+      "text": "What is the capital of Newfoundland and Labrador?",
+      "choices": [
+        "St. John's",
+        "Charlottetown",
+        "Halifax",
+        "Fredericton"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "St. John’s ",
+      "explanation": "St. John's is the capital of Newfoundland and Labrador."
+    },
+    {
+      "id": "Q0T1U",
+      "text": "What is the capital of Prince Edward Island?",
+      "choices": [
+        "Halifax",
+        "Fredericton",
+        "St. John's",
+        "Charlottetown"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Charlottetown",
+      "explanation": "Charlottetown is the capital of Prince Edward Island."
+    },
+    {
+      "id": "Q1U2V",
+      "text": "What is the capital of Nova Scotia?",
+      "choices": [
+        "Charlottetown",
+        "St. John's",
+        "Fredericton",
+        "Halifax"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Halifax",
+      "explanation": "Halifax is the capital of Nova Scotia."
+    },
+    {
+      "id": "Q2V3W",
+      "text": "What is the capital of New Brunswick?",
+      "choices": [
+        "Halifax",
+        "Fredericton",
+        "Winnipeg",
+        "Regina"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Fredericton",
+      "explanation": "Fredericton is the capital of New Brunswick."
+    },
+    {
+      "id": "Q3W4X",
+      "text": "What is the capital of Saskatchewan?",
+      "choices": [
+        "Saskatoon",
+        "Edmonton",
+        "Winnipeg",
+        "Regina"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Regina",
+      "explanation": "Regina is the capital of Saskatchewan."
+    },
+    {
+      "id": "Q4X5Y",
+      "text": "What is the capital of Quebec?",
+      "choices": [
+        "Quebec City",
+        "Montreal",
+        "Saint-Jean",
+        "Chicoutimi"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Québec City ",
+      "explanation": "Quebec City is the capital of Quebec."
+    },
+    {
+      "id": "Q5Y6Z",
+      "text": "What is the capital of Ontario?",
+      "choices": [
+        "Ottawa",
+        "Toronto",
+        "Kingston",
+        "Mississauga"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Toronto",
+      "explanation": "Toronto is the capital of Ontario."
+    },
+    {
+      "id": "Q6Z7A",
+      "text": "What is the capital of Manitoba?",
+      "choices": [
+        "Regina",
+        "Edmonton",
+        "Winnipeg",
+        "Calgary"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Winnipeg",
+      "explanation": "Winnipeg is the capital of Manitoba."
+    },
+    {
+      "id": "Q7A8B",
+      "text": "What is the capital of Alberta?",
+      "choices": [
+        "Calgary",
+        "Edmonton",
+        "Red Deer",
+        "Regina"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Edmonton",
+      "explanation": "Edmonton is the capital of Alberta."
+    },
+    {
+      "id": "Q8B9C",
+      "text": "What is the capital of British Columbia?",
+      "choices": [
+        "Vancouver",
+        "Victoria",
+        "Calgary",
+        "Edmonton"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Victoria",
+      "explanation": "Victoria is the capital of British Columbia."
+    },
+    {
+      "id": "Q9C0D",
+      "text": "What is the capital of Nunavut?",
+      "choices": [
+        "Yellowknife",
+        "Inuit",
+        "Edmonton",
+        "Iqaluit"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Iqaluit",
+      "explanation": "Iqaluit is the capital of Nunavut."
+    },
+    {
+      "id": "Q0D1E",
+      "text": "What is the capital of the Northwest Territories?",
+      "choices": [
+        "Whitehorse",
+        "Edmonton",
+        "Yellowknife",
+        "Iqaluit"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Yellowknife",
+      "explanation": "Yellowknife is the capital of the Northwest Territories."
+    },
+    {
+      "id": "Q1E2F",
+      "text": "What is the capital of the Yukon?",
+      "choices": [
+        "Yellowknife",
+        "Iqaluit",
+        "Whitehorse",
+        "Edmonton"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Whitehorse",
+      "explanation": "Whitehorse is the capital of the Yukon."
+    },
+    {
+      "id": "Q2F3G",
+      "text": "Which of the following does not border British Columbia?",
+      "choices": [
+        "Saskatchewan",
+        "Yukon",
+        "Alberta",
+        "Northwest Territories"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Saskatchewan does not border British Columbia."
+    },
+    {
+      "id": "Q3G4H",
+      "text": "Which of the following does not border Alberta?",
+      "choices": [
+        "British Columbia",
+        "Manitoba",
+        "Saskatchewan",
+        "Northwest Territories"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Manitoba does not border Alberta."
+    },
+    {
+      "id": "Q4H5I",
+      "text": "Which of the following does not border the Yukon?",
+      "choices": [
+        "Arctic Ocean",
+        "Northwest Territories",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Alberta does not border the Yukon."
+    },
+    {
+      "id": "Q5I6J",
+      "text": "Which of the following does not border the Northwest Territories?",
+      "choices": [
+        "Yukon",
+        "Ontario",
+        "Nunavut",
+        "Alberta"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Ontario does not border the Northwest Territories."
+    },
+    {
+      "id": "Q6J7K",
+      "text": "Which of the following does not border Nunavut?",
+      "choices": [
+        "Arctic Ocean",
+        "Northwest Territories",
+        "Manitoba",
+        "Ontario"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Ontario does not border Nunavut."
+    },
+    {
+      "id": "Q7K8L",
+      "text": "Which of the following does not border Saskatchewan?",
+      "choices": [
+        "U.S.A.",
+        "Alberta",
+        "Manitoba",
+        "British Columbia"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "British Columbia does not border Saskatchewan."
+    },
+    {
+      "id": "Q8L9M",
+      "text": "Which of the following does not border Manitoba?",
+      "choices": [
+        "Quebec",
+        "Saskatchewan",
+        "Ontario",
+        "U.S.A."
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Quebec does not border Manitoba."
+    },
+    {
+      "id": "Q9M0N",
+      "text": "Which of the following does not border Ontario?",
+      "choices": [
+        "Nova Scotia",
+        "Manitoba",
+        "Quebec",
+        "Hudson Bay"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Nova Scotia does not border Ontario."
+    },
+    {
+      "id": "Q0N1O",
+      "text": "Which of the following does not border Quebec?",
+      "choices": [
+        "Ontario",
+        "New Brunswick",
+        "Nova Scotia",
+        "Atlantic Ocean"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Nova Scotia does not border Quebec."
+    },
+    {
+      "id": "Q1O2P",
+      "text": "Which of the following does not border New Brunswick?",
+      "choices": [
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Quebec",
+        "Atlantic Ocean"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Prince Edward Island does not border New Brunswick."
+    },
+    {
+      "id": "Q2P3Q",
+      "text": "Which of the following borders Nova Scotia?",
+      "choices": [
+        "New Brunswick",
+        "Quebec",
+        "Prince Edward Island",
+        "Ontario"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "New Brunswick borders Nova Scotia."
+    },
+    {
+      "id": "Q3Q4R",
+      "text": "Which of the following borders Prince Edward Island?",
+      "choices": [
+        "New Brunswick",
+        "Quebec",
+        "Nova Scotia",
+        "Atlantic Ocean"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "The Atlantic Ocean borders Prince Edward Island."
+    },
+    {
+      "id": "Q4R5S",
+      "text": "Which of the following borders Newfoundland and Labrador?",
+      "choices": [
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick",
+        "Ontario"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Quebec borders Newfoundland and Labrador."
+    },
+    {
+      "id": "Q5S6T",
+      "text": "Which of the following provinces/territories borders the Pacific Ocean?",
+      "choices": [
+        "Quebec",
+        "British Columbia",
+        "Northwest Territories",
+        "Alberta"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "British Columbia borders the Pacific Ocean."
+    },
+    {
+      "id": "Q6T7U",
+      "text": "Which of the following provinces/territories does not border the U.S.A.?",
+      "choices": [
+        "Quebec",
+        "British Columbia",
+        "Nunavut",
+        "Alberta"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Nunavut does not border the U.S.A."
+    },
+    {
+      "id": "Q7U8V",
+      "text": "Which of the following provinces/territories does not border Hudson Bay?",
+      "choices": [
+        "Nunavut",
+        "Manitoba",
+        "Ontario",
+        "Northwest Territories"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Northwest Territories does not border Hudson Bay."
+    },
+    {
+      "id": "Q8V9W",
+      "text": "Which of the following provinces/territories borders with the Atlantic Ocean?",
+      "choices": [
+        "Newfoundland and Labrador",
+        "British Columbia",
+        "Saskatchewan",
+        "Alberta"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Newfoundland and Labrador borders the Atlantic Ocean."
+    },
+    {
+      "id": "Q9W0X",
+      "text": "Which of the following provinces/territories borders the Arctic Ocean?",
+      "choices": [
+        "Nunavut",
+        "Manitoba",
+        "Ontario",
+        "Newfoundland and Labrador"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "ARCTIC     OCEAN ATLANTIC OCEAN Northwest Territories Nunavut Alberta Saskatchewan Manitoba Ontario Quebec Ottawa Nova Scotia Newfoundland and Labrador UNITED STATES OF AMERICA Victoria New Brunswick New Brunswick Prince Edward Island Prince Edward Island",
+      "explanation": "Nunavut borders the Arctic Ocean."
+    },
+    {
+      "id": "Q0X1Y",
+      "text": "What is the most easterly point in North America?",
+      "choices": [
+        "Prince Edward Island",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 45,
+      "complexity": 2,
+      "reference": "Newfoundland and Labrador is the most easterly point in North America",
+      "explanation": "Newfoundland and Labrador is the most easterly point in North America."
+    },
+    {
+      "id": "Q1Y2Z",
+      "text": "Which province has its own time zone?",
+      "choices": [
+        "Nunavut",
+        "Yukon",
+        "Newfoundland and Labrador",
+        "Prince Edward Island"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "Newfoundland and Labrador is the most easterly point in North America and has its own time zone",
+      "explanation": "Newfoundland and Labrador has its own time zone."
+    },
+    {
+      "id": "Q2Z3A",
+      "text": "What is the oldest colony of the British Empire?",
+      "choices": [
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "New Brunswick"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "The oldest colony of the British Empire",
+      "explanation": "Newfoundland and Labrador is the oldest colony of the British Empire."
+    },
+    {
+      "id": "Q3A4B",
+      "text": "Which province has long been known for its fisheries, coastal fishing villages and distinct culture?",
+      "choices": [
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "New Brunswick",
+        "British Columbia"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "the province has long been known for its fisheries, coastal fishing villages and distinct culture.",
+      "explanation": "Newfoundland and Labrador is known for its fisheries, coastal fishing villages, and distinct culture."
+    },
+    {
+      "id": "Q4B5C",
+      "text": "What does P.E.I. stand for?",
+      "choices": [
+        "Prince Edward Island",
+        "Prince Edmond Island",
+        "Port Edward Island",
+        "Prince Edgar Island"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "Prince Edward Island (P.E.I.)",
+      "explanation": "P.E.I. stands for Prince Edward Island."
+    },
+    {
+      "id": "Q5C6D",
+      "text": "What is Canada's smallest province?",
+      "choices": [
+        "Nunavut",
+        "Prince Edward Island",
+        "Saskatchewan",
+        "Nova Scotia"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "Prince Edward Island (P.E.I.) is the smallest province",
+      "explanation": "Prince Edward Island is Canada's smallest province."
+    },
+    {
+      "id": "Q6D7E",
+      "text": "What is known as the birthplace of Confederation?",
+      "choices": [
+        "Ontario",
+        "Quebec",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": " P.E.I. is the birthplace of Confederation,",
+      "explanation": "Prince Edward Island is known as the birthplace of Confederation."
+    },
+    {
+      "id": "Q7E8F",
+      "text": "In Canada, where can you find one of the longest continuous multispan bridges in the world?",
+      "choices": [
+        "Prince Edward Island",
+        "Quebec",
+        "Nova Scotia",
+        "Ontario"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": " connected to mainland Canada by one of the longest continuous multispan bridges in the world",
+      "explanation": "Prince Edward Island has one of the longest continuous multispan bridges in the world."
+    },
+    {
+      "id": "Q8F9G",
+      "text": "In Canada, where can you find Celtic and Gaelic traditions?",
+      "choices": [
+        "Newfoundland and Labrador",
+        "Saskatchewan",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "The province’s Celtic and Gaelic traditions sustain a vibrant culture.",
+      "explanation": "Nova Scotia is known for its Celtic and Gaelic traditions."
+    },
+    {
+      "id": "Q9G0H",
+      "text": "Where is Canada's largest naval base?",
+      "choices": [
+        "Nova Scotia",
+        "Vancouver",
+        "New Brunswick",
+        "Ontario"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "home to Canada’s largest naval base",
+      "explanation": "Canada's largest naval base is in Nova Scotia."
+    },
+    {
+      "id": "Q0H1I",
+      "text": "Where is Canada's largest east coast port?",
+      "choices": [
+        "Charlottetown",
+        "St. John's",
+        "Halifax",
+        "Fredericton"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": " As Canada’s largest east coast port,",
+      "explanation": "Halifax is Canada's largest east coast port."
+    },
+    {
+      "id": "Q1I2J",
+      "text": "In Canada, where can you find the world's highest tides?",
+      "choices": [
+        "Prince Edward Island",
+        "Quebec",
+        "Nova Scotia",
+        "British Columbia"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 46,
+      "complexity": 2,
+      "reference": "Known for the world’s highest tides in the Bay of Fundy",
+      "explanation": "Nova Scotia has the world's highest tides."
+    },
+    {
+      "id": "Q2J3K",
+      "text": "Which province has the second largest river system on North America's Atlantic coastline?",
+      "choices": [
+        "Quebec",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "and has the second largest river system on North America’s Atlantic coastline",
+      "explanation": "New Brunswick has the second largest river system on North America's Atlantic coastline."
+    },
+    {
+      "id": "Q3K4L",
+      "text": "Which city is the principal Francophone Acadian centre in Canada?",
+      "choices": [
+        "Moncton",
+        "Quebec City",
+        "Montreal",
+        "Charlottetown"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "Moncton is the principal Francophone Acadian centre",
+      "explanation": "Moncton is the principal Francophone Acadian centre in Canada."
+    },
+    {
+      "id": "Q4L5M",
+      "text": "Which province is the only officially bilingual province?",
+      "choices": [
+        "Quebec",
+        "New Brunswick",
+        "Nova Scotia",
+        "Ontario"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "New Brunswick is the only officially bilingual province",
+      "explanation": "New Brunswick is the only officially bilingual province."
+    },
+    {
+      "id": "Q5M6N",
+      "text": "In Canada, where do more than half of the people live?",
+      "choices": [
+        "Central Canada",
+        "Atlantic provinces",
+        "Prairie provinces",
+        "West Coast"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "More than half the people in Canada live in cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario, known as Central Canada",
+      "explanation": "More than half of the people in Canada live in Central Canada."
+    },
+    {
+      "id": "Q6N7O",
+      "text": "What is known as Canada's industrial and manufacturing heartland?",
+      "choices": [
+        "Ontario",
+        "Alberta",
+        "Quebec",
+        "Southern Ontario and Quebec"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": " known as Central Canada and the industrial and manufacturing heartland",
+      "explanation": "Southern Ontario and Quebec are known as Canada's industrial and manufacturing heartland."
+    },
+    {
+      "id": "Q7O8P",
+      "text": "Where are more than three quarters of all Canadian manufactured goods produced?",
+      "choices": [
+        "Quebec",
+        "Ontario",
+        "Quebec and Ontario",
+        "Ontario and Manitoba"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "Together, Ontario and Quebec produce more than three-quarters of all Canadian manufactured goods",
+      "explanation": "More than three quarters of all Canadian manufactured goods are produced in Quebec and Ontario."
+    },
+    {
+      "id": "Q8P9Q",
+      "text": "In Quebec, where do the vast majority of people live?",
+      "choices": [
+        "Along or near the St. Lawrence River",
+        "On the Atlantic Coast",
+        "At the border with Ontario",
+        "At the border with the U.S.A."
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": " the vast majority along or near the St. Lawrence River",
+      "explanation": "The vast majority of people in Quebec live along or near the St. Lawrence River."
+    },
+    {
+      "id": "Q9Q0R",
+      "text": "In Quebec, how many people speak French as their first language?",
+      "choices": [
+        "Less than half",
+        "About one-third",
+        "More than three-quarters",
+        "100%"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "More than three-quarters speak French as their first language.",
+      "explanation": "More than three-quarters of people in Quebec speak French as their first language."
+    },
+    {
+      "id": "Q0R1S",
+      "text": "Which province is Canada's main producer of pulp and paper?",
+      "choices": [
+        "New Brunswick",
+        "Ontario",
+        "British Columbia",
+        "Quebec"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "More than three-quarters speak French as their first language.",
+      "explanation": "Quebec is Canada's main producer of pulp and paper."
+    },
+    {
+      "id": "Q1S2T",
+      "text": "Which province is Canada's largest producer of hydroelectricity?",
+      "choices": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Manitoba"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "The province’s huge supply of fresh water has made it Canada’s largest producer of hydro-electricity. ",
+      "explanation": "Quebec is Canada's largest producer of hydroelectricity."
+    },
+    {
+      "id": "Q2T3U",
+      "text": "What is \"La Francophonie\"?",
+      "choices": [
+        "A traditional French music",
+        "A region in Quebec",
+        "A French-Canadian political party",
+        "An association of French-speaking nations"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "La Francophonie, an association of French-speaking nations",
+      "explanation": "La Francophonie is an association of French-speaking nations."
+    },
+    {
+      "id": "Q3U4V",
+      "text": "Which of the following is Canada's second largest city?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "Montreal, Canada’s second largest city",
+      "explanation": "Montreal is Canada's second largest city."
+    },
+    {
+      "id": "Q4V5W",
+      "text": "What is Canada's second largest, mainly French-speaking city in the world, after Paris?",
+      "choices": [
+        "Quebec City",
+        "Montreal",
+        "Ottawa",
+        "Halifax"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 47,
+      "complexity": 2,
+      "reference": "Montreal, Canada’s second largest city and the second largest mainly French-speaking city in the world after Paris,",
+      "explanation": "Montreal is the second largest, mainly French-speaking city in the world, after Paris."
+    },
+    {
+      "id": "Q5W6X",
+      "text": "Where do one-third of Canadians live?",
+      "choices": [
+        "British Colombia",
+        "Quebec",
+        "Nova Scotia",
+        "Ontario"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "the people of Ontario make up more than one-third of Canadians.",
+      "explanation": "One-third of Canadians live in Ontario."
+    },
+    {
+      "id": "Q6X7Y",
+      "text": "Which of the following is Canada's main financial centre and largest city?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Toronto is the largest city in Canada and the country’s main financial centre.",
+      "explanation": "Toronto is Canada's main financial centre and largest city."
+    },
+    {
+      "id": "Q7Y8Z",
+      "text": "Which of the following has the largest French-speaking population outside of Quebec?",
+      "choices": [
+        "Ontario",
+        "Nova Scotia",
+        "New Brunswick",
+        "Manitoba"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Ontario also has the largest Frenchspeaking population outside of Quebec",
+      "explanation": "Ontario has the largest French-speaking population outside of Quebec."
+    },
+    {
+      "id": "Q8Z9A",
+      "text": "Which two of the following are Great Lakes?",
+      "choices": [
+        "Lake Hudson and Lake Michigan",
+        "Lake Hudson and Lake Erie",
+        "Lake Ontario and Lake Erie",
+        "Lake Superior and Lake Lawrence"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan (in the U.S.A.) and Lake Superior",
+      "explanation": "Lake Ontario and Lake Erie are two of the Great Lakes."
+    },
+    {
+      "id": "Q9A0B",
+      "text": "Where are the Great Lakes located?",
+      "choices": [
+        "Between Ontario and Quebec",
+        "Between Ontario and the United States",
+        "Between Quebec and the United States",
+        "Between Manitoba and the United States"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "There are five Great Lakes located between Ontario and the United States",
+      "explanation": "The Great Lakes are located between Ontario and the United States."
+    },
+    {
+      "id": "Q0B1C",
+      "text": "How many of the Great Lakes are located between Ontario and the United States?",
+      "choices": [
+        "Two",
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 44,
+      "complexity": 2,
+      "reference": "There are five Great Lakes located between Ontario and the United States",
+      "explanation": "Five of the Great Lakes are located between Ontario and the United States."
+    },
+    {
+      "id": "Q1C2D",
+      "text": "Which of the following is the largest fresh water lake in the world?",
+      "choices": [
+        "Lake Ontario",
+        "Lake Erie",
+        "Lake Superior",
+        "Lake Huron"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "There are five Great Lakes located between Ontario and the United States",
+      "explanation": "Lake Superior is the largest fresh water lake in the world."
+    },
+    {
+      "id": "Q2D3E",
+      "text": "For what is Lake Superior known?",
+      "choices": [
+        "Largest fresh water fishing industry in the world",
+        "Largest fresh water lake in the world",
+        "Largest dam in the world",
+        "Deepest lake in the world"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Lake Superior, the largest freshwater lake in the world.",
+      "explanation": "Lake Superior is known for being the largest fresh water lake in the world."
+    },
+    {
+      "id": "Q3E4F",
+      "text": "Which provinces have some of the most fertile farmlands in the world?",
+      "choices": [
+        "Manitoba, Saskatchewan and Alberta",
+        "Ontario, Quebec and New Brunswick",
+        "British Columbia, Alberta and the Yukon",
+        "Manitoba, Ontario and Quebec"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Manitoba, Saskatchewan and Alberta are the Prairie Provinces, rich in energy resources and some of the most fertile farmland in the world.",
+      "explanation": "Manitoba, Saskatchewan, and Alberta have some of the most fertile farmlands in the world."
+    },
+    {
+      "id": "Q4F5G",
+      "text": "Which are the Prairie provinces?",
+      "choices": [
+        "Manitoba and Saskatchewan",
+        "Manitoba, Saskatchewan and Alberta",
+        "Manitoba and Alberta",
+        "Saskatchewan, Ontario and Alberta"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Manitoba, Saskatchewan and Alberta are the Prairie Provinces, rich in energy resources and some of the most fertile farmland in the world.",
+      "explanation": "The Prairie provinces are Manitoba, Saskatchewan, and Alberta."
+    },
+    {
+      "id": "Q5G6H",
+      "text": "Where is Western Canada's largest Francophone community?",
+      "choices": [
+        "Manitoba",
+        "Saskatchewan",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Winnipeg’s French Quarter, St. Boniface, has Western Canada’s largest Francophone community",
+      "explanation": "Manitoba has Western Canada's largest Francophone community."
+    },
+    {
+      "id": "Q6H7I",
+      "text": "Which province has the largest Aboriginal population in Canada?",
+      "choices": [
+        "Saskatchewan",
+        "Ontario",
+        "Manitoba",
+        "New Brunswick"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Winnipeg’s French Quarter, St. Boniface, has Western Canada’s largest Francophone community",
+      "explanation": "Manitoba has the largest Aboriginal population in Canada."
+    },
+    {
+      "id": "Q7I8J",
+      "text": "Which province was once known as the \"breadbasket of the world\" and, the \"wheat province\"?",
+      "choices": [
+        "Saskatchewan",
+        "Ontario",
+        "Manitoba",
+        "New Brunswick"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Winnipeg’s French Quarter, St. Boniface, has Western Canada’s largest Francophone community ",
+      "explanation": "Saskatchewan was once known as the \"breadbasket of the world\" and the \"wheat province\"."
+    },
+    {
+      "id": "Q8J9K",
+      "text": "Which province is Canada's largest producer of grains and oilseeds?",
+      "choices": [
+        "New Brunswick",
+        "Ontario",
+        "Manitoba",
+        "Saskatchewan"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Winnipeg’s French Quarter, St. Boniface, has Western Canada’s largest Francophone community",
+      "explanation": "Saskatchewan is Canada's largest producer of grains and oilseeds."
+    },
+    {
+      "id": "Q9K0L",
+      "text": "Which province has 40% of the arable land in Canada?",
+      "choices": [
+        "Yukon",
+        "Saskatchewan",
+        "New Brunswick",
+        "Manitoba"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "has 40% of the arable land in Canada",
+      "explanation": "Saskatchewan has 40% of the arable land in Canada."
+    },
+    {
+      "id": "Q0L1M",
+      "text": "Which province has the world's richest deposits of uranium and potash?",
+      "choices": [
+        "Saskatchewan",
+        "Alberta",
+        "Manitoba",
+        "Ontario"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "It also boasts the world’s richest deposits of uranium and potash",
+      "explanation": "Saskatchewan has the world's richest deposits of uranium and potash."
+    },
+    {
+      "id": "Q1M2N",
+      "text": "Which of the following is the home to the training academy of the Royal Canadian Mounted Police (RCMP)?",
+      "choices": [
+        "Winnipeg",
+        "Regina",
+        "Saskatoon",
+        "Edmonton"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Regina, the capital, is home to the training academy of the Royal Canadian Mounted Police.",
+      "explanation": "Regina is home to the training academy of the Royal Canadian Mounted Police (RCMP)."
+    },
+    {
+      "id": "Q2N3O",
+      "text": "Which city is the headquarters of the Canadian mining industry?",
+      "choices": [
+        "Winnipeg",
+        "Vancouver",
+        "Saskatoon",
+        "Edmonton"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 48,
+      "complexity": 2,
+      "reference": "Saskatoon, the largest city, is the headquarters of the mining industry",
+      "explanation": "Saskatoon is the headquarters of the Canadian mining industry."
+    },
+    {
+      "id": "Q3O4P",
+      "text": "Where is the world-famous Lake Louise?",
+      "choices": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Interior Mountains",
+        "Selkirk Mountains"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": " the world-famous Lake Louise in the Rocky Mountains",
+      "explanation": "Lake Louise is located in the Rocky Mountains."
+    },
+    {
+      "id": "Q4P5Q",
+      "text": "How many national parks does Alberta have?",
+      "choices": [
+        "One",
+        "Three",
+        "Ten",
+        "Five"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "Alberta has five national parks",
+      "explanation": "Alberta has five national parks."
+    },
+    {
+      "id": "Q5Q6R",
+      "text": "Which province is Canada's major producer of oil and gas?",
+      "choices": [
+        "British Columbia",
+        "Alberta",
+        "Manitoba",
+        "Ontario"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "Alberta is the largest producer of oil and gas",
+      "explanation": "Alberta is Canada's major producer of oil and gas."
+    },
+    {
+      "id": "Q6R7S",
+      "text": "Which province hosts the vast cattle ranches that make Canada one of the world's major beef producers?",
+      "choices": [
+        "British Columbia",
+        "Manitoba",
+        "Alberta",
+        "Ontario"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "Alberta is also renowned for agriculture, especially for the vast cattle ranches that make Canada one of the world’s major beef producers.",
+      "explanation": "Alberta hosts the vast cattle ranches that make Canada one of the world's major beef producers."
+    },
+    {
+      "id": "Q7S8T",
+      "text": "Which of the following is Canada's Asia-Pacific gateway?",
+      "choices": [
+        "Yukon",
+        "Alberta",
+        "Nova Scotia",
+        "British Colombia"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "British Columbia is known for its majestic mountains and as Canada’s Pacific gateway.",
+      "explanation": "British Columbia is Canada's Asia-Pacific gateway."
+    },
+    {
+      "id": "Q8T9U",
+      "text": "Which of the following is Canada's largest and busiest port?",
+      "choices": [
+        "Halifax",
+        "St. John's",
+        "Vancouver",
+        "Toronto"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "The Port of Vancouver, Canada’s largest and busiest",
+      "explanation": "Vancouver is Canada's largest and busiest port."
+    },
+    {
+      "id": "Q9U0V",
+      "text": "What is Canada's most westerly province?",
+      "choices": [
+        "Yukon",
+        "British Columbia",
+        "Alberta",
+        "Alaska"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "British Columbia (B.C.), on the Pacific coast, is Canada’s westernmost province",
+      "explanation": "British Columbia is Canada's most westerly province."
+    },
+    {
+      "id": "Q0V1W",
+      "text": "What are the main goods produced in British Columbia?",
+      "choices": [
+        "Fishing products",
+        "Auto industry products",
+        "Farming products",
+        "Forestry products"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": "About one-half of all the goods produced in B.C. are forestry products",
+      "explanation": "Forestry products are the main goods produced in British Columbia."
+    },
+    {
+      "id": "Q1W2X",
+      "text": "Which province has the most extensive park system in Canada?",
+      "choices": [
+        "Yukon",
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": " B.C. has the most extensive park system in Canada",
+      "explanation": "British Columbia has the most extensive park system in Canada."
+    },
+    {
+      "id": "Q2X3Y",
+      "text": "Where is the headquarters of the Canadian Navy's Pacific fleet?",
+      "choices": [
+        "Victoria",
+        "Vancouver",
+        "Nanaimo",
+        "Seattle"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 49,
+      "complexity": 2,
+      "reference": " The capital, Victoria, is a tourist centre and headquarters of the navy’s Pacific fleet.",
+      "explanation": "The headquarters of the Canadian Navy's Pacific fleet is in Victoria."
+    },
+    {
+      "id": "Q3Y4Z",
+      "text": "Which region contains one-third of Canada's land mass?",
+      "choices": [
+        "The Atlantic Provinces",
+        "The Northern Territories",
+        "Central Canada",
+        "The Prairie Provinces"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "The Northwest Territories, Nunavut and Yukon contain one-third of Canada’s land mass",
+      "explanation": "The Northern Territories contain one-third of Canada's land mass."
+    },
+    {
+      "id": "Q4Z5A",
+      "text": "Which part of Canada is sometimes called the \"Land of the Midnight Sun\"?",
+      "choices": [
+        "The South",
+        "The East",
+        "The North",
+        "Central Canada"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": " The North is often referred to as the “Land of the Midnight Sun”",
+      "explanation": "The North is sometimes called the \"Land of the Midnight Sun\"."
+    },
+    {
+      "id": "Q5A6B",
+      "text": "Why is the North sometimes called the \"Land of the Midnight Sun\"?",
+      "choices": [
+        "Daylight can last up to 24 hours in fall",
+        "Daylight can last up to 24 hours in winter",
+        "Daylight can last up to 24 hours in summer",
+        "Daylight can last up to 24 hours in spring"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "because at the height of summer, daylight can last up to 24 hours.",
+      "explanation": "Daylight can last up to 24 hours in summer in the North."
+    },
+    {
+      "id": "Q6B7C",
+      "text": "When was the Yukon Gold Rush?",
+      "choices": [
+        "In the 1890s",
+        "In the 1790s",
+        "In the 1920s",
+        "In the 1940s"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "Thousands of miners came to the Yukon during the Gold Rush of the 1890s",
+      "explanation": "The Yukon Gold Rush occurred in the 1890s."
+    },
+    {
+      "id": "Q7C8D",
+      "text": "What represents a significant part of the economy of the Yukon?",
+      "choices": [
+        "Hunting",
+        "Fishing",
+        "Trapping",
+        "Mining"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "Mining remains a significant part of the economy.",
+      "explanation": "Mining represents a significant part of the economy of the Yukon."
+    },
+    {
+      "id": "Q8D9E",
+      "text": "Where is the highest mountain in Canada located?",
+      "choices": [
+        "Yukon",
+        "Alberta",
+        "British Columbia",
+        "Northwest Territories"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "Mount Logan, located in the Yukon, is the highest mountain in Canada.",
+      "explanation": "The highest mountain in Canada is located in the Yukon."
+    },
+    {
+      "id": "Q9E0F",
+      "text": "What is the name of the highest mountain in Canada?",
+      "choices": [
+        "Mount Rocky",
+        "Mount Logan",
+        "Mount Vancouver",
+        "Mount Joffre"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "Mount Logan, located in the Yukon, is the highest mountain in Canada.",
+      "explanation": "The highest mountain in Canada is Mount Logan."
+    },
+    {
+      "id": "Q0F1G",
+      "text": "Who is Mount Logan, the highest mountain in Canada, named in honour of?",
+      "choices": [
+        "Sir William Logan, a world-famous navy officer",
+        "Sir William Logan, a world-famous mountain climber",
+        "Sir William Logan, a world-famous geologist",
+        "Sir William Logan, a world-famous pioneer"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": " It  is named in honour of  Sir William Logan, a world-famous geologist, born in Montreal in 1798",
+      "explanation": "Mount Logan is named in honour of Sir William Logan, a world-famous geologist."
+    },
+    {
+      "id": "Q1G2H",
+      "text": "Which province or territory holds the record for the coldest temperature ever recorded in Canada (-63 C)?",
+      "choices": [
+        "Nunavut",
+        "Ontario",
+        "Yukon",
+        "Alberta"
+      ],
+      "correctAnswer": 2,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": " It  is named in honour of  Sir William Logan, a world-famous geologist, born in Montreal in 1798",
+      "explanation": "Yukon holds the record for the coldest temperature ever recorded in Canada (-63 C)."
+    },
+    {
+      "id": "Q2H3I",
+      "text": "Which Canadian city is called the \"diamond capital of North America\"?",
+      "choices": [
+        "Yellowknife",
+        "Whitehorse",
+        "Calgary",
+        "Edmonton"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "The capital, Yellowknife (population 20,000), is called the “diamond capital of North America.”",
+      "explanation": "Yellowknife is called the \"diamond capital of North America\"."
+    },
+    {
+      "id": "Q3I4J",
+      "text": "What is the name of the Canadian river that represents the second-longest river system in North America?",
+      "choices": [
+        "Mackenzie River",
+        "St Lawrence River",
+        "Yukon River",
+        "The Columbia River"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 50,
+      "complexity": 2,
+      "reference": "The Mackenzie River, at 4,200 kilometres, is the second-longest river system in North America",
+      "explanation": "The Mackenzie River represents the second-longest river system in North America."
+    },
+    {
+      "id": "Q4J5K",
+      "text": "What does \"Nunavut\" mean?",
+      "choices": [
+        "\"Our land\"",
+        "\"Our village\"",
+        "\"Our country\"",
+        "\"The land of the midnight sun\""
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 51,
+      "complexity": 2,
+      "reference": "Nunavut, meaning “our land” in Inuktitut",
+      "explanation": "Nunavut means \"Our land\"."
+    },
+    {
+      "id": "Q5K6L",
+      "text": "Who represents the majority population in Nunavut?",
+      "choices": [
+        "Métis",
+        "Inuit",
+        "Acadian",
+        "First Nations"
+      ],
+      "correctAnswer": 1,
+      "chapter": 11,
+      "page": 51,
+      "complexity": 2,
+      "reference": "The population is about 85% Inuit",
+      "explanation": "The Inuit represent the majority population in Nunavut."
+    },
+    {
+      "id": "Q6L7M",
+      "text": "In Nunavut, beside English, which other language is also an official language and first language in schools?",
+      "choices": [
+        "French",
+        "Métis",
+        "Acadian",
+        "Inuktitut"
+      ],
+      "correctAnswer": 3,
+      "chapter": 11,
+      "page": 51,
+      "complexity": 2,
+      "reference": "Inuktitut is an official language and the first language in schools.",
+      "explanation": "Inuktitut is also an official language and first language in schools in Nunavut."
+    },
+    {
+      "id": "Q7M8N",
+      "text": "What animal is a symbol of Canada's North?",
+      "choices": [
+        "The caribou",
+        "The moose",
+        "The polar bear",
+        "The beaver"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 51,
+      "complexity": 2,
+      "reference": "XXXXXXXXXXXXXXX",
+      "explanation": "The caribou is a symbol of Canada's North."
+    },
+    {
+      "id": "Q8N9O",
+      "text": "What are the Canadian Rangers?",
+      "choices": [
+        "The part of the Canadian Forces Reserves overlooking Canada's vast North",
+        "The Northern Divison of the RCMP",
+        "The first pioneers of the North",
+        "The Canadian Northern mountain range"
+      ],
+      "correctAnswer": 0,
+      "chapter": 11,
+      "page": 51,
+      "complexity": 2,
+      "reference": "the Canadian Rangers, part of the Canadian Forces Reserves (militia)",
+      "explanation": "The Canadian Rangers are part of the Canadian Forces Reserves overlooking Canada's vast North."
+    }
+  ]
+}
